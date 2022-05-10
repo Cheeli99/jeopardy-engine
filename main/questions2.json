@@ -1,0 +1,159 @@
+{ "results":
+    [
+        {
+            "category": "People",
+            "question": "Founder of Facebook",
+            "correct_answer": "Mark Zuckerberg",
+            "incorrect_answers": "",
+            "score": "100"
+        },
+        {
+            "question": "Founder of Microsoft",
+            "correct_answer": "Bill Gates",
+            "incorrect_answers": "",
+            "score": "200"
+        },
+        {
+            "question": "Founder of Reddit",
+            "correct_answer": "Alexis Ohanian",
+            "incorrect_answers": "",
+            "score": "300"
+        },
+        {
+            "question": "Founder of WikiLeaks",
+            "correct_answer": "Julian Assange",
+            "incorrect_answers": "",
+            "score": "400"
+        },
+        {
+            "question": "Computer language named after French philosopher/mathematician",
+            "correct_answer": "Pascal",
+            "incorrect_answers": "",
+            "score": "500"
+        },
+        {
+            "category": "Did You Know?",
+            "question": "Three letter name for Apple iPad operating system",
+            "correct_answer": "iOS",
+            "incorrect_answers": "",
+            "score": "100"
+        },
+        {
+            "question": "Keyboard shortcut in Windows 10 for copying",
+            "correct_answer": "Ctrl C",
+            "incorrect_answers": "",
+            "score": "200"
+        },
+        {
+            "question": "Keyboard shortcut in Microsoft Word for undoing the previous action",
+            "correct_answer": "Ctrl Z",
+            "incorrect_answers": "",
+            "score": "300"
+        },
+        {
+            "question": "First operating system design by Microsoft",
+            "correct_answer": "MS-DOS",
+            "incorrect_answers": "",
+            "score": "400"
+        },
+        {
+            "question": "In what year was the first release of the operating system Linux?",
+            "correct_answer": "1991",
+            "incorrect_answers": "",
+            "score": "500"
+        },
+        {
+            "category": "Acro-nimble",
+            "question": "What does the acronym USB stand for",
+            "correct_answer": "Universal Serial Bus",
+            "incorrect_answers": "",
+            "score": "100"
+        },
+        {
+            "question": "Type of keyboard that gets its name from the upper-left hand characters",
+            "correct_answer": "QWERTY",
+            "incorrect_answers": "",
+            "score": "200"
+        },
+        {
+            "question": "Three letter name of firm that invented the floppy diskette",
+            "correct_answer": "IBM",
+            "incorrect_answers": "",
+            "score": "300"
+        },
+        {
+            "question": "Acronym used to refer to a rewriteable Digital Versatile Disk",
+            "correct_answer": "DVD -RW",
+            "incorrect_answers": "",
+            "score": "400"
+        },
+        {
+            "question": "When referring to peripheral devices, the term PnP stands for",
+            "correct_answer": "Plug n Play",
+            "incorrect_answers": "",
+            "score": "500"
+        },
+        {
+            "category": "EEK-Commerce",
+            "question": "Founder of Amazon.com",
+            "correct_answer": "Jeff Bezos",
+            "incorrect_answers": "",
+            "score": "100"
+        },
+        {
+            "question": "Most famous online auction site",
+            "correct_answer": "ebay",
+            "incorrect_answers": "",
+            "score": "200"
+        },
+        {
+            "question": "Where would you go to check out your items while shopping online?",
+            "correct_answer": "Shopping Cart",
+            "incorrect_answers": "",
+            "score": "300"
+        },
+        {
+            "question": "In terms of e-commerce, what does B2C mean?",
+            "correct_answer": "Business to consumer",
+            "incorrect_answers": "",
+            "score": "400"
+        },
+        {
+            "question": "Who is credited with the inception of e-commerce business?",
+            "correct_answer": "Michael Aldrich",
+            "incorrect_answers": "",
+            "score": "500"
+        },
+        {
+            "category": "Start Me Up",
+            "question": "Turning on a computer that has been powered down is called",
+            "correct_answer": "Cold boot",
+            "incorrect_answers": "",
+            "score": "100"
+        },
+        {
+            "question": "The year that Google was founded was",
+            "correct_answer": "1998",
+            "incorrect_answers": "",
+            "score": "200"
+        },
+        {
+            "question": "The most influential person in the creation of the World-Wide Web",
+            "correct_answer": "Tim Berners-Lee",
+            "incorrect_answers": "",
+            "score": "300"
+        },
+        {
+            "question": "The creature that has been used as the mascot for Linux since day one",
+            "correct_answer": "Penguin",
+            "incorrect_answers": "",
+            "score": "400"
+        },
+        {
+            "question": "Space flight term that is used to refer to starting an application",
+            "correct_answer": "Launch",
+            "incorrect_answers": "",
+            "score": "500"
+        }
+    ]
+}

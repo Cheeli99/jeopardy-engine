@@ -1,0 +1,159 @@
+{ "results":
+    [
+        {
+            "category": "Computer Hardware",
+            "question": "What part of the computer controls the cursor?",
+            "correct_answer": "Mouse",
+            "incorrect_answers": "",
+            "score": "100"
+        },
+        {
+            "question": "What part of the computer is refered as the \"Brains of the Computer\"?",
+            "correct_answer": "CPU",
+            "incorrect_answers": "",
+            "score": "200"
+        },
+        {
+            "question": "What does RAM stand for?",
+            "correct_answer": "Random Access Memory",
+            "incorrect_answers": "",
+            "score": "300"
+        },
+        {
+            "question": "What's in charge of providing power to the computer?",
+            "correct_answer": "Power Supply Unit",
+            "incorrect_answers": "",
+            "score": "400"
+        },
+        {
+            "question": "What contains instructions that the computer uses to\n perform basic instructions such as whether to boot from a network or hard disk drive",
+            "correct_answer": "BIOS",
+            "incorrect_answers": "",
+            "score": "500"
+        },
+        {
+            "category": "Computer Networking",
+            "question": "What does ISP stand for?",
+            "correct_answer": "Internet Service Provider",
+            "incorrect_answers": "",
+            "score": "100"
+        },
+        {
+            "question": "What is short for Wireless-Fidelity",
+            "correct_answer": "Wi-Fi",
+            "incorrect_answers": "",
+            "score": "200"
+        },
+        {
+            "question": "What is WAN?",
+            "correct_answer": "Wide Area Network",
+            "incorrect_answers": "",
+            "score": "300"
+        },
+        {
+            "question": "Thin strand of glass that transmits pulsating beams\n of light rather than electric current.",
+            "correct_answer": "Fiber-optic cable",
+            "incorrect_answers": "",
+            "score": "400"
+        },
+        {
+            "question": "DHCP is the abbreviation of...",
+            "correct_answer": "Dynamic Host Configuration Protocol",
+            "incorrect_answers": "",
+            "score": "500"
+        },
+        {
+            "category": "Computer History",
+            "question": "What was the first external data storage device?",
+            "correct_answer": "Floppy disk",
+            "incorrect_answers": "",
+            "score": "100"
+        },
+        {
+            "question": "When was the compact disc (CD) invented?",
+            "correct_answer": "1982",
+            "incorrect_answers": "",
+            "score": "200"
+        },
+        {
+            "question": "What was invented before the World Wide Web?",
+            "correct_answer": "Email",
+            "incorrect_answers": "",
+            "score": "300"
+        },
+        {
+            "question": "What was the name of the first computer invented",
+            "correct_answer": "ENIAC",
+            "incorrect_answers": "",
+            "score": "400"
+        },
+        {
+            "question": "What is the name of the network that was the precursor of the Internet?",
+            "correct_answer": "ARPANET",
+            "incorrect_answers": "",
+            "score": "500"
+        },
+        {
+            "category": "Computer Software",
+            "question": "What is a type of computer program that, when executed, replicates itself by \nmodifying other computer programs and inserting its own code.",
+            "correct_answer": "Virus",
+            "incorrect_answers": "",
+            "score": "100"
+        },
+        {
+            "question": "In what type of application we can add slides, text, images, graphics, and videos?",
+            "correct_answer": "Presentation",
+            "incorrect_answers": "",
+            "score": "200"
+        },
+        {
+            "question": "What type of applications are available to users on a trial basis only for a limited period of time?",
+            "correct_answer": "Shareware",
+            "incorrect_answers": "",
+            "score": "300"
+        },
+        {
+            "question": "What is the name of Microsoft's first operating system?",
+            "correct_answer": "MS-DOS",
+            "incorrect_answers": "",
+            "score": "400"
+        },
+        {
+            "question": "What was the first graphical Internet browser?",
+            "correct_answer": "Netscape",
+            "incorrect_answers": "",
+            "score": "500"
+        },
+        {
+            "category": "Tech Companies",
+            "question": "Who is the first trillion dollar tech company?",
+            "correct_answer": "Apple",
+            "incorrect_answers": "",
+            "score": "100"
+        },
+        {
+            "question": "Back when they first started, what did Amazon first sell?",
+            "correct_answer": "Books",
+            "incorrect_answers": "",
+            "score": "200"
+        },
+        {
+            "question": "In what year was YouTube founded?",
+            "correct_answer": "2005",
+            "incorrect_answers": "",
+            "score": "300"
+        },
+        {
+            "question": "Which computer company invented the first floppy disks, hard disk drives, and DRAMS?",
+            "correct_answer": "IBM",
+            "incorrect_answers": "",
+            "score": "400"
+        },
+        {
+            "question": "What was the single most popular computer system ever sold?",
+            "correct_answer": "Commodore 64",
+            "incorrect_answers": "",
+            "score": "500"
+        }
+    ]
+}
